@@ -1,0 +1,40 @@
+.bg-contact {
+  background-color: #2b402e;
+  padding: 20px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.contact-head {
+  color: white;
+  font-size: 36px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.contact-container {
+  display: flex;
+}
+.contact-logo {
+  display: flex;
+  justify-content: space-between;
+}
+.logo-container {
+  background-color: black;
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+}
+.con-logo {
+  height: 80px;
+  width: 70px;
+  margin-top: 10px;
+  padding-top: 30px;
+  padding-left: 50px;
+}

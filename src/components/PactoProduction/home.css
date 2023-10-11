@@ -1,0 +1,11 @@
+.bg-home {
+  background-color: #5376b0;
+  height: 100vh;
+  color: white;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

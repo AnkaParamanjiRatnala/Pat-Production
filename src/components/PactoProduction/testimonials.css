@@ -1,0 +1,30 @@
+.card {
+  width: 350px;
+  height: 330px;
+  border-radius: 15px;
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 80px 100px #074e63;
+}
+.bg-testimonial {
+  background-color: #9a30c7;
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.image {
+  height: 50px;
+  width: 50px;
+}
+.testi-text {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+.testi-head {
+  color: yellow;
+  font-size: 38px;
+  font-weight: bold;
+}
